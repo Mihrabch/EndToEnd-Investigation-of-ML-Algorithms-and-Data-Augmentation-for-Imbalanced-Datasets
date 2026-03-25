@@ -1,6 +1,5 @@
-# Diabetes Risk Prediction — BRFSS Dataset
+# EndToEnd-ML-Algorithms-and-Data-Augmentation-for-Imbalanced-Datasets
 
-> **Note:** This repo is maintained under a co-author's account. 
 > I led the ML pipeline design, data preprocessing, model development, 
 > and analysis for this project.
 ## My Contributions
@@ -43,10 +42,7 @@ before clinical diagnosis?
 ## Repository Structure
 ```
 ├── data/               # Preprocessed BRFSS dataset
-├── notebooks/
-│   └── diabetes_ml_brfss_enn.ipynb   # Main analysis notebook
-├── grid_search_hyper_parameters.xlsx  # Tuning results
-├── requirements.txt
+├── notebooks   # Main analysis notebook
 └── README.md
 ```
 
