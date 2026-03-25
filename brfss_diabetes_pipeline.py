@@ -7,8 +7,7 @@ Purpose : End-to-end pipeline showcasing preprocessing, class balancing,
           encoding, and hyperparameter tuning via GridSearchCV.
 
 NOTE: This script is a pipeline demonstration sample using SMOTEN
-      sampling_strategy=1. Full experiments (all sampling strategies +
-      final model evaluation) live in diabetes_prediction_final_8.ipynb.
+      sampling_strategy=1.
 """
 
 import numpy as np
